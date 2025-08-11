@@ -3,7 +3,6 @@ import Navbar from "./Navbar";
 import HomePageDesing from "./HomePageDesing";
 import HerpPage from "./HerpPage";
 import SuccessStory from "./SuccessStory";
-import WhyChooseus from "./WhyChooseus";
 import WhyChooseUs from "./WhyChooseus";
 import Footer from "./Footer";
 import { Testimonials } from "./Testimonials";

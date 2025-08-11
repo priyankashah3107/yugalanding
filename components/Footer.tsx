@@ -4,7 +4,7 @@ import {
   Twitter,
   Youtube,
   Instagram,
-  DivideIcon as LucideIcon,
+  type LucideIcon,
 } from "lucide-react";
 
 interface FooterLink {

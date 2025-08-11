@@ -1,7 +1,5 @@
-import { ArrowBigLeft, ArrowLeft, Handshake } from "lucide-react";
 import Image from "next/image";
 import React from "react";
-import { Button } from "./ui/button";
 
 interface FeatureItem {
   title: string;

@@ -6,7 +6,7 @@ const HerpPage = () => {
   return (
     <section className="flex flex-col justify-start items-center gap-8">
       <h1 className=" text-4xl font-normal font-['Alata'] leading-10 self-stretch text-center justify-start text-white md:text-7xl md:leading-[84px] mt-10 md:mt-32 relative ">
-        The World's First <br className="md:hidden" /> Yogasana <br />{" "}
+        The World&apos;s First <br className="md:hidden" /> Yogasana <br />{" "}
         Championship{" "}
         <span className="relative inline-block">
           Software

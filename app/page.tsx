@@ -1,6 +1,4 @@
 import HomePage from "@/components/HomePage";
-import SuccessStory from "@/components/SuccessStory";
-import { Button } from "@/components/ui/button";
 import React from "react";
 
 const Home = () => {
